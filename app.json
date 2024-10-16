@@ -22,18 +22,6 @@
     "ShowInMenu": true
   },
   {
-    "name": "V2box",
-    "urlScheme": "v2box://install-sub",
-    "image": "https://play-lh.googleusercontent.com/kVeisXWkT4oRMDsZbFrY7XXJvnxHJ7PnQFE71XCcCWAoeOAg5G3HJRDp4Ro3Xbc3WA",
-    "link": "v2box://install-sub?url={url}&name=SUBnew",
-    "os": ["iOS", "Android"],
-    "downloadLinks": {
-      "iOS": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
-      "Android": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB"
-    },
-    "ShowInMenu": false
-  },
-  {
     "name": "V2rayN",
     "urlScheme": "v2rayng://install-config",
     "image": "https://fa.v2rayn.org/wp-content/uploads/2024/01/favicon.png",
@@ -42,37 +30,5 @@
       "Windows": "https://github.com/2dust/v2rayN/releases/download/6.60/zz_v2rayN-With-Core-SelfContained.7z"
     },
     "ShowInMenu": true
-  },
-  {
-    "name": "Shadowrocket",
-    "image": "https://avatars.githubusercontent.com/u/22568082?s=200&v=4",
-    "os": ["iOS"],
-    "downloadLinks": {
-      "iOS": "https://apps.apple.com/us/app/shadowrocket/id932747118"
-    },
-    "ShowInMenu": false
-  },
-  {
-    "name": "Nekoray",
-    "image": "https://avatars.githubusercontent.com/u/95122236?v=4",
-    "os": ["Windows", "Linux"],
-    "downloadLinks": {
-      "Windows": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip",
-      "Linux": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip"
-    },
-    "ShowInMenu": false
-  },
-  {
-    "name": "SingBox",
-    "urlScheme": "sing-box://import-remote-profile",
-    "image": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
-    "link": "sing-box://import-remote-profile?url={url}#MattSub",
-    "os": ["iOS", "Android", "Linux"],
-    "downloadLinks": {
-      "iOS": "https://apps.apple.com/om/app/sing-box/id6451272673",
-      "Android": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/SFA-1.9.6-universal.apk",
-      "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/sing-box_1.9.6_linux_386.deb"
-    },
-    "ShowInMenu": false
   }
 ]
